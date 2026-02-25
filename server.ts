@@ -10,7 +10,7 @@ async function startServer() {
   const server = createServer(app);
   const wss = new WebSocketServer({ server });
 
-  const PORT = 3000;
+  const PORT = 4173;
 
   // Game State
   let gameState: GameState = {
