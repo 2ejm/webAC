@@ -1,0 +1,5 @@
+{
+  "name": "Auto Chess Arena",
+  "description": "A real-time 6-player auto-battler game where you build a team of units to defeat your opponents.",
+  "requestFramePermissions": []
+}
